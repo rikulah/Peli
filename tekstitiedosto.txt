@@ -17,4 +17,3 @@ MITÄ KOODATAAN
 - Stats, pisteet
 - Xp, levelit pelaajalle
 - Useampi leveli/scene
-- 
