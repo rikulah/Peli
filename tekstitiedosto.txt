@@ -1,2 +1,20 @@
-tekstitiedosto
-testitestitesti
+Plan A
+
+YLEISTÄ
+- Tasohyppelypeli
+- Alkuun kuutiot, lopuks hahmot ja animaatiot
+
+MITÄ KOODATAAN
+- Liikkuminen
+- Kolikot
+- Kamera
+- Items
+- Inventory
+- Vihuja
+- Ampuminen
+- Damage, Hp
+- Iskut a, b, spell
+- Stats, pisteet
+- Xp, levelit pelaajalle
+- Useampi leveli/scene
+- 
